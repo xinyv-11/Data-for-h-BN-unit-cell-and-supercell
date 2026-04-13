@@ -1,4 +1,4 @@
-# Data-for-h-BN-unit-cell-and-supercell
+# Data for h-BN unit cell and supercell
 
 This compressed archive contains two parts, corresponding to the unit-cell and supercell calculations of bilayer h-BN presented in this work.
 
